@@ -9,6 +9,10 @@ app.use(express.json());
 
 const chefData = require('./data.json');
 
+app.get('/chef', (req, res)=>{
+    res.send(chefData)
+})
+
 app.get('/', (req, res) => {
     res.send('Chef Server is running')
 });
