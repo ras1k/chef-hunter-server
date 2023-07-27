@@ -1,11 +1,11 @@
 [
     {
-      "chef_picture": "https://example.com/chef_pictures/alice_smith.jpg",
+      "chef_picture": "https://i.ibb.co/qBRGCF0/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
       "id": "1",
       "chef_name": "Yuki Tanaka",
       "years_of_experience": 9,
       "num_recipes": 50,
-      "likes": ["Sushi", "Tempura", "Ramen"],
+      "likes": 16.7,
       "bio": "Yuki Tanaka is a passionate chef who has been working in the culinary industry for over a decade. His love for cooking began at a young age, and he has since honed his skills in some of the finest kitchens in the world. He is known for his innovative recipes and use of fresh, seasonal ingredients. In his free time, Yuki enjoys exploring local food markets and experimenting with new flavors.",
       "recipes": [
         {
@@ -29,12 +29,12 @@
       ]
     },
     {
-      "chef_picture": "https://example.com/chef_pictures/william_johnson.jpg",
+      "chef_picture": "https://i.ibb.co/vD6ZTBQ/abdullah-arain-8-n-ZZJCq-Xh0-unsplash.jpg",
       "id": "2",
       "chef_name": "Hiroshi Nakamura",
       "years_of_experience": 7,
       "num_recipes": 70,
-      "likes": ["Sashimi", "Udon", "Japanese Curry"],
+      "likes": 10.8,
       "bio": "Hiroshi Nakamura is a talented chef with a passion for Japanese cuisine. He has been honing his culinary skills for several years and has worked in some renowned kitchens. His innovative recipes and dedication to using fresh, high-quality ingredients make him stand out. When not cooking, Hiroshi enjoys exploring traditional food markets and experimenting with new cooking techniques.",
       "recipes": [
         {
@@ -58,12 +58,12 @@
       ]
     },
     {
-      "chef_picture": "https://example.com/chef_pictures/josef_martin.jpg",
+      "chef_picture": "https://i.ibb.co/hKQqbnS/martin-baron-Kdi9-H3-R1ik-unsplash.jpg",
       "id": "3",
       "chef_name": "Akira Yamamoto",
       "years_of_experience": 11,
       "num_recipes": 50,
-      "likes": ["Sushi", "Soba", "Matcha Desserts"],
+      "likes": 13.7,
       "bio": "Akira Yamamoto is an experienced chef who has dedicated over a decade to perfecting the art of Japanese cuisine. His culinary journey began early in life, and he has since honed his skills in some of the most prestigious kitchens worldwide. Akira is renowned for his creative recipes and emphasis on using fresh, seasonal ingredients. In his leisure time, he enjoys exploring the intricacies of traditional Japanese teas and crafting exquisite matcha desserts.",
       "recipes": [
         {
@@ -87,12 +87,13 @@
       ]
     },
     {
-      "chef_picture": "https://example.com/chef_pictures/eliana.jpg",
+      "chef_picture": "https://i.ibb.co/D8XSBZQ/petr-sevcovic-e12w-QLAj-Qi0-unsplash-1.jpg",
       "id": "4",
       "chef_name": "Sakura Watanabe",
       "years_of_experience": 13,
       "num_recipes": 80,
-      "likes": ["Ramen", "Gyoza", "Yakitori"],
+      "rating": 4.8,
+      "likes": 5.5,
       "bio": "Sakura Watanabe is a seasoned chef with a passion for the diverse flavors of Japan. With more than a decade of culinary experience, she has honed her skills in some of the most prestigious kitchens. Sakura is celebrated for her culinary creativity and her use of fresh, seasonal ingredients. In her spare time, she loves to explore the streets of Tokyo, discovering hidden food gems and perfecting her yakitori grilling techniques.",
       "recipes": [
         {
@@ -116,12 +117,12 @@
       ]
     },
     {
-      "chef_picture": "https://example.com/chef_pictures/risona.jpg",
+      "chef_picture": "https://i.ibb.co/NNVv1DD/vadim-markin-BFt-Il-Gd-WKbk-unsplash.jpg",
       "id": "5",
       "chef_name": "Haruki Sato",
       "years_of_experience": 6,
       "num_recipes": 38,
-      "likes": ["Sushi", "Miso Soup", "Tempura"],
+      "likes": 7.8,
       "bio": "Haruki Sato is a talented chef who brings a fresh perspective to traditional Japanese cuisine. Despite his relatively short culinary career, he has quickly gained recognition for his unique recipes and presentation. Haruki has a strong affinity for sushi and delights in experimenting with different fish and flavor combinations. When he's not behind the stove, he enjoys exploring Japanese tea culture and perfecting his miso soup recipes.",
       "recipes": [
         {
@@ -145,12 +146,12 @@
       ]
     },
     {
-      "chef_picture": "https://example.com/chef_pictures/baku.jpg",
+      "chef_picture": "https://i.ibb.co/S0YXXhT/maks-styazhkin-ZDJ8kkkd7-RY-unsplash.jpg",
       "id": "6",
       "chef_name": "Kenta Fujimoto",
       "years_of_experience": 10,
       "num_recipes": 60,
-      "likes": ["Sushi", "Ramen", "Japanese Desserts"],
+      "likes": 9.9,
       "bio": "Kenta Fujimoto is a masterful chef with a decade of experience in crafting exceptional Japanese dishes. His culinary journey started as a child, and he has since perfected his skills in renowned kitchens around the globe. Kenta's flair for creating unique and delightful sushi rolls sets him apart in the culinary world. During his downtime, he enjoys exploring the art of traditional ramen-making and experimenting with Japanese dessert delicacies.",
       "recipes": [
         {

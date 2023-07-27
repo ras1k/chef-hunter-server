@@ -11,7 +11,14 @@ const chefData = require('./data.json');
 
 app.get('/chef', (req, res)=>{
     res.send(chefData)
-})
+});
+
+app.get('/chef/:id',(req, res)=>{
+    const id = req.params.id;
+    console.log(id);
+    const selectedId = chefData.find(data => data.id === id);
+    res.send(selectedId)
+});
 
 app.get('/', (req, res) => {
     res.send('Chef Server is running')
